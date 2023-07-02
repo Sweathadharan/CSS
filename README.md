@@ -1,2 +1,3 @@
-# CSS
-![image](https://github.com/Sweathadharan/CSS/assets/89176350/fa6b5ec7-45b8-4daa-8bef-d08fc3faf15b)
+# Day 1 CSS challenge
+![image](https://github.com/Sweathadharan/CSS/assets/89176350/c7768822-6eb1-40ed-933e-c8f154c2c911)
+
